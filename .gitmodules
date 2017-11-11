@@ -1,0 +1,3 @@
+[submodule "TST3"]
+	path = TST3
+	url = https://github.com/cbttestuser1/test-project.git
