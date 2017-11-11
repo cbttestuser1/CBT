@@ -1,3 +1,6 @@
 [submodule "TST3"]
 	path = TST3
 	url = https://github.com/cbttestuser1/test-project.git
+[submodule "FALL 2017/Java Programming/JAVA INSTALLATION. SCRATCH GROUP PROJECT/Demo Project"]
+	path = FALL 2017/Java Programming/JAVA INSTALLATION. SCRATCH GROUP PROJECT/Demo Project
+	url = https://github.com/cbttestuser1/test-project.git
